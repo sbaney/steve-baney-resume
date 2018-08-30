@@ -14,11 +14,13 @@ section {
 }
 @media print {
 	header {
+		display: block;
 		width:170px;
 		float:left;
 		position: fixed;
 	}
 	section {
+		display: block;
 		width:600px;
 		float:right;
 		padding-bottom:50px;
