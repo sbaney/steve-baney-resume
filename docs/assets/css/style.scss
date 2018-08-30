@@ -12,6 +12,21 @@ section {
     width: 100%;
     margin-bottom: 20px;
 }
+@media only screen and (max-width: 960px) {
+	body {
+		width: 100%
+	}
+}
+@media only screen and (max-width: 720px) {
+	body {
+		width: 100%
+	}
+}
+@media only screen and (max-width: 480px) {
+	body {
+		width: 100%
+	}
+}
 @media print {
 	header {
 		width:100%;
@@ -28,5 +43,5 @@ section {
 	body {
     font-size:10pt;
     color:#000;
-  }
+	}
 }
