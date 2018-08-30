@@ -15,6 +15,18 @@ section {
 .url {
 	display: none;
 }
+body {
+	background-color: #002b36;
+	font: 14px/1.5 Verdana, Helvetica, "Liberation Sans", "DejaVu Sans", Arial, sans-serif;
+	color:#839496;
+}
+h1, h2, h3, h4, h5, h6 {
+	font-family: Georgia, Times, "Times New Roman", serif;
+	color:#d33682;
+}
+a {
+	color:#268bd2;
+}
 @media only screen and (max-width: 960px) {
 	header {
 		width: 100%
@@ -66,6 +78,7 @@ section {
 	}
 	body {
     font-size:10pt;
+    background-color: #FFF;
     color:#000;
 	}
 }
