@@ -5,6 +5,9 @@
 header {
   width:170px;
 }
+footer {
+  width:170px;
+}
 section {
     width: 600px;
 }
@@ -88,6 +91,7 @@ a:hover, a:focus {
 		display: none;
 	}
 	body {
+		padding:1in;
 	    font-size:10pt;
 	    background-color: #FFF;
 	    color:#000;
@@ -99,7 +103,4 @@ a:hover, a:focus {
     border-top:1px solid #000;
     border-width:1px 0;
   }
-  hr {
-	background:#000;
-	}
 }
