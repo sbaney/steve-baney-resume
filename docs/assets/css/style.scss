@@ -19,6 +19,9 @@ section {
 	section {
 		width: 100%
 	}
+	.logo {
+		width:170px;
+	}
 }
 @media only screen and (max-width: 720px) {
 	header {
@@ -27,6 +30,9 @@ section {
 	section {
 		width: 100%
 	}
+	.logo {
+		width:170px;
+	}
 }
 @media only screen and (max-width: 480px) {
 	header {
@@ -34,6 +40,9 @@ section {
 	}
 	section {
 		width: 100%
+	}
+	.logo {
+		width:170px;
 	}
 }
 @media print {

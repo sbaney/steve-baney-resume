@@ -43,7 +43,3 @@ System Administrator for web design and hosting provider managing Linux web and 
 ### Tait Towers - Application Programmer / Systems Analyst - 2007-2012
 
 Primary developer for an in-house project management system. Worked closely with users and management to implement business logic to customize the application to match the company's needs. Worked as a Systems Analyst both assisting managing our Active Directory domain and Exchange email services, help desk, and internal improvement projects. Managed and implemented SpamTitan email spam filter, ShoreTel VOIP system, Dell KACE ticketing system, and Dell KACE workstation setup automation improving both quality of work and greatly reducing repetitive work. Implemented and managed SharePoint in order to provide documentation, processes, and checklists ensuring consistency and quality of work.
-
-### Other Work
-
-Short term employment in web development, managed service provider, landscaping, and restaurant industries provided experience working in varied and fast-paced environments both independently and as part of a team. Experience outside of the IT industry has provided valuable lessons on teamwork, efficiency, hard work, and customer satisfaction.
