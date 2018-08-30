@@ -3,7 +3,7 @@ layout: default
 ---
 ## Mission
 
-My experience in over a decade of work in the IT industry has cultivated a passion for constant learning and improvement.I have worked in a variety of positions ranging from programming and help desk support to systems administration and project management.This wide range of experience has required me to teach myself new skills on a regular basis, to be open to new technologies, and the humility to learn from those with more expertise and experience.The diversity of my experience has also granted me a unique perspective, encouraging problems to be viewed from multiple angles, from development to operations, management to client.I will never be satisfied with the status quo and consistently strive to improve both my own work and the operations of my organization.
+My experience in over a decade of work in the IT industry has cultivated a passion for constant learning and improvement. I have worked in a variety of positions ranging from programming and help desk support to systems administration and project management. This wide range of experience has required me to teach myself new skills on a regular basis, to be open to new technologies, and to learn from those with more expertise and experience. The diversity of my experience has also granted me a unique perspective, viewing projects from multiple angles.
 
 ## Skills
 
@@ -21,7 +21,6 @@ My experience in over a decade of work in the IT industry has cultivated a passi
  * Experience with both physical and virtual servers, installing, maintaining, and configuring in-house physical and VMware virtual servers, and remotely hosted dedicated and virtual servers
  * Server monitoring using Nagios / Icinga, Zenoss, and Munin
  * Automation-focused with an eye towards the future of containerization, infrastructure as code, configuration management, and cloud infrastructure
- * Security minded with a proactive approach
 
 ### Project Management
  * Consistently identifies opportunities to improve processes and systems and spearheads efforts to implement solutions

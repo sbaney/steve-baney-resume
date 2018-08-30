@@ -12,6 +12,9 @@ section {
     width: 100%;
     margin-bottom: 20px;
 }
+.url {
+	display: none;
+}
 @media only screen and (max-width: 960px) {
 	header {
 		width: 100%
@@ -54,6 +57,9 @@ section {
 	}
 	.logo {
 		display: none;
+	}
+	.url {
+		display: block;
 	}
 	.view {
 		display: none;
