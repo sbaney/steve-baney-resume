@@ -16,13 +16,12 @@ section {
 	header {
 		width:170px;
 		float:left;
-		position: relative;
+		position: fixed;
 	}
 	section {
 		width:600px;
 		float:right;
 		padding-bottom:50px;
-		position: relative;
 	}
 	footer {
 		display: none;
