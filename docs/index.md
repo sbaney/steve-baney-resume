@@ -1,11 +1,6 @@
 ---
 layout: default
 ---
-
-# Steve Baney
-## 484-947-4192
-## steve.baney@gmail.com
-
 ## Mission
 
 My experience in over a decade of work in the IT industry has cultivated a passion for constant learning and improvement.  I have worked in a variety of positions ranging from programming and help desk support to systems administration and project management.  This wide range of experience has required me to teach myself new skills on a regular basis, to be open to new technologies, and the humility to learn from those with more expertise and experience.  The diversity of my experience has also granted me a unique perspective, encouraging problems to be viewed from multiple angles, from development to operations, management to client.  I will never be satisfied with the status quo and consistently strive to improve both my own work and the operations of my organization.
