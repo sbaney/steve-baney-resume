@@ -13,17 +13,26 @@ section {
     margin-bottom: 20px;
 }
 @media only screen and (max-width: 960px) {
-	body {
+	header {
+		width: 100%
+	}
+	section {
 		width: 100%
 	}
 }
 @media only screen and (max-width: 720px) {
-	body {
+	header {
+		width: 100%
+	}
+	section {
 		width: 100%
 	}
 }
 @media only screen and (max-width: 480px) {
-	body {
+	header {
+		width: 100%
+	}
+	section {
 		width: 100%
 	}
 }
