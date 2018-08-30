@@ -15,15 +15,3 @@ section {
     margin-bottom: 20px;
     width: 50%;
 }
-@media print {
-	header {
-		width:170px;
-		float:left;
-		position:fixed;
-	}
-	section {
-		width:500px;
-		float:right;
-		padding-bottom:50px;
-	}
-}
