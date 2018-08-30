@@ -17,7 +17,6 @@ My experience in over a decade of work in the IT industry has cultivated a passi
 
 ### Administration
  * Web and application server administration using Linux (Debian, Ubuntu, CentOS), cPanel, Apache, and Nginx
- * Email administration using both Microsoft Exchange and Exim for user email and Sendy and Amazon SES for email newsletters. Spam management using SpamTitan, SpamAssassin, and MailScanner
  * Experience with both physical and virtual servers, installing, maintaining, and configuring in-house physical and VMware virtual servers, and remotely hosted dedicated and virtual servers
  * Server monitoring using Nagios / Icinga, Zenoss, and Munin
  * Automation-focused with an eye towards the future of containerization, infrastructure as code, configuration management, and cloud infrastructure
