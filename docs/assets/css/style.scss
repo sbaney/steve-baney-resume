@@ -76,6 +76,7 @@ a:hover, a:focus {
 }
 @media print {
 	header {
+		margin-top: 1em;
 		width:100%;
 	}
 	footer {
@@ -91,7 +92,6 @@ a:hover, a:focus {
 		display: none;
 	}
 	body {
-		padding:1in;
 	    font-size:10pt;
 	    background-color: #FFF;
 	    color:#000;

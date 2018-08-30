@@ -15,13 +15,13 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        <h1>{{ site.title | default: site.github.repository_name }}</h1>
         
         {% if site.logo %}
           <img class="logo" src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-        <p>{{ site.email }}</p>
+        <p><a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
         <p>{{ site.phone }}</p>
         <p class="url">{{ site.url }}</p>
 
