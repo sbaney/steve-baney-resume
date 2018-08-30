@@ -14,12 +14,27 @@ section {
 }
 @media print {
 	header {
-		width: 100%;
+		width:170px;
+		float:left;
+		position: relative;
+	}
+	section {
+		width:600px;
+		float:right;
+		padding-bottom:50px;
+		position: relative;
+	}
+	footer {
+		display: none;
 	}
 	.logo {
-		float: right;
+		display: none;
 	}
 	.view {
 		display: none;
 	}
+	body {
+    font-size:10pt;
+    color:#000;
+  }
 }
