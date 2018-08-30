@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Steve Baney
 ## 484-947-4192
 ## steve.baney@gmail.com
