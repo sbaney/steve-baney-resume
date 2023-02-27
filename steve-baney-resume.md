@@ -41,7 +41,7 @@ Worked as a member of the design team developing WordPress websites, custom appl
 
 System Administrator for web design and hosting provider managing Linux web and email servers. Oversaw day-to-day hosting and email operations, interface with hosting and email clients, overhaul of server infrastructure, implementation of documentation processes, creation and management of email newsletter service, and assorted web development work.
 
-### Tait Towers - Application Programmer / Systems Analyst - 2007-2012
+### Tait Towers - Systems Analyst / Application Programmer - 2007-2012
 
 Primary developer for an in-house project management system. Worked closely with users and management to implement business logic to customize the application to match the company's needs. Worked as a Systems Analyst both assisting managing our Active Directory domain and Exchange email services, help desk, and internal improvement projects. Managed and implemented SpamTitan email spam filter, ShoreTel VOIP system, Dell KACE ticketing system, and Dell KACE workstation setup automation improving both quality of work and greatly reducing repetitive work. Implemented and managed SharePoint in order to provide documentation, processes, and checklists ensuring consistency and quality of work.
 
