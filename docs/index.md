@@ -21,7 +21,7 @@ My experience in over a decade of work in the IT industry has cultivated a passi
  * Experience with both physical and virtual servers, installing, maintaining and configuring in-house physical and VMware virtual servers, and remotely hosted dedicated and virtual servers
  * Server monitoring using Nagios / Icinga, Zenoss, and Munin
  * Automation-focused with an eye towards the future of containerization, infrastructure as code, configuration management, and cloud infrastructure
-  * Security-mined with an emphasis on proactive solutions.
+  * Security-mined with an emphasis on proactive solutions
 
 ### Project Management
  * Consistently identifies opportunities to improve processes and systems and spearheads efforts to implement solutions
